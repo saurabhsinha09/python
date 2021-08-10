@@ -1,2 +1,2 @@
-# python-code
+# python
 Directory for python code practice.

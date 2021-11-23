@@ -2,11 +2,11 @@
 
 Create webpages with the help of flask webserver.
 
-* app.py -
+* app.py
 
 Basic website with only three pages.
 
-* home 
+* home
 * about
 * plot
 
@@ -18,9 +18,8 @@ bokeh, flask, pandas, pandas-datareader, quandl
 
 * Installing library
 
-pip install bokeh
-pip install flask
-pip install pandas
-pip install pandas_datareader
-pip install quandl
-
+1. pip install bokeh
+2. pip install flask
+3. pip install pandas
+4. pip install pandas_datareader
+5. pip install quandl

@@ -1,3 +1,5 @@
 old-code/
 */.ipynb_checkpoints
-*/__pycache__/*
+**/__pycache__/
+.vs/
+OOP/bookstore/db.ini

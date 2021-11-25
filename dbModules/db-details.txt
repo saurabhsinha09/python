@@ -1,0 +1,17 @@
+Postgresql connection details
+SuperUser - postgres
+Password  - Post1234
+Port      - 5432
+db        - postgres
+
+TestUser - test
+Password - Test1234
+db       - db1
+
+Mysql connection details
+User     - root
+Password - Mysql1234
+Port     - 3306
+
+TestUser - test
+Password - Test12345
